@@ -7,7 +7,7 @@
     - [ ] AI runs on computers and is thus powered by electricity, but it is letting computers do things not possible before.
     - [x] Similar to electricity starting about 100 years ago, AI is transforming multiple industries.
     
-    Note: Andrew illustrated the same idea in the lecture.
+    Note: AI is transforming many fields from the car industry to agriculture to supply-chain...
 
 2. Which of these are reasons for Deep Learning recently taking off? (Check the two options that apply.)
 
@@ -15,7 +15,10 @@
     - [ ] Neural Networks are a brand new field.
     - [x] We have access to a lot more data.
     - [x] Deep learning has resulted in significant improvements in important applications such as online advertising, speech recognition, and image recognition.
-    
+   
+   Note: The development of hardware, perhaps especially GPU computing, has significantly improved deep learning algorithms' performance. 
+   Note: The digitalization of our society has played a huge role in this.
+   
 3. Recall this diagram of iterating over different ML ideas. Which of the statements below are true? (Check all that apply.)
 
     - [x] Being able to try out ideas quickly allows deep learning engineers to iterate more quickly.
@@ -30,11 +33,11 @@
     - [ ] True
     - [x] False
     
-    Note: Maybe some experience may help, but nobody can always find the best model or hyperparameters without iterations. 
+    Note: Finding the characteristics of a model is key to have good performance. Although experience can help, it requires multiple iterations to build a good model.
 
 5. Which one of these plots represents a ReLU activation function?
 
-    - Check [here](https://en.wikipedia.org/wiki/Rectifier_(neural_networks)).
+    - Check [here](https://en.wikipedia.org/wiki/Rectifier_(neural_networks)). This is the ReLU activation function, the most used in neural networks.
     
 6. Images for cat recognition is an example of “structured” data, because it is represented as a structured array in a computer. True/False?
     
@@ -52,6 +55,8 @@
     - [ ] It is strictly more powerful than a Convolutional Neural Network (CNN).
     - [x] It is applicable when the input/output is a sequence (e.g., a sequence of words).
     - [ ] RNNs represent the recurrent process of Idea->Code->Experiment->Idea->....
+    
+    Note: RNN and CNN are two distinct classes of models, with their own advantages and disadvantages. RNNs are a model type. The iterative process of developing DL systems is a completely separate concept.
     
 9. In this diagram which we hand-drew in lecture, what do the horizontal axis (x-axis) and vertical axis (y-axis) represent?
 
